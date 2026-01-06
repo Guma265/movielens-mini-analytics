@@ -1,0 +1,5 @@
+__pycache__/
+*.db
+data_raw/
+outputs/*.csv
+.DS_Store
